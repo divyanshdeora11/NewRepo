@@ -1,3 +1,9 @@
+/* 
+create new repo
+make changes into the repo and pull that update code into remote laptop 
+make changes into current code and push it on the git hub
+*/
+
 #include<stdio.h>
 
 int main(){
@@ -12,3 +18,5 @@ int sum = a+b;
 printf("Sum = %d", sum);
 return 0 ;
 }
+
+
